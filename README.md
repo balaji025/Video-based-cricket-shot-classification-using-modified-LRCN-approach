@@ -1,2 +1,2 @@
 # Video-based-cricket-shot-classification-using-modified-LRCN-approach
-This work refines cricket shot classification using a modified LRCN approach, advancing accuracy in video-based identification. Pending conference feedback, it promises to enhance sports analytics and reshape performance analysis methodologies.
+This is report shows a development of a machine learning model for cricket shot classification from video data, employing a modified Long-term Recurrent Convolution Network (LRCN) based model. This model achieved accuracies as high as 95% when trained. It involved designing and implementing the model's structure, incorporating layers such as LSTM and CNN to effectively capture temporal and spatial features from the video data. 
